@@ -2,7 +2,7 @@
 
 
 def main():
-    print("I should not be called")
+    pass
     
 if __name__ == "__main__":
     main()
